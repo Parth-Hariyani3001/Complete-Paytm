@@ -20,6 +20,7 @@ coverage
 
 # Vercel
 .vercel
+apps/user-app/node_modules
 
 # Build Outputs
 .next/
